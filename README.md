@@ -168,3 +168,9 @@ Third-party components retain their original copyright and licensing notices.
 ## Academic Context
 
 Feedog was developed as part of the Digital Electronics III coursework, with the objective of integrating digital electronics, embedded programming, sensors, actuators, and user interaction into a complete working system.
+
+https://github.com/user-attachments/assets/cec67e29-3d74-41a6-9b75-8b6805b9ada9
+
+
+
+
