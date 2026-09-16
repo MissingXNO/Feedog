@@ -30,8 +30,6 @@ The system includes:
 
 The RP2040 acts as the central controller and coordinates the sensors, user interface, RTC, and actuators.
 
-PLACEHOLDER: IMAGES/SYSTEM_ARCHITECTURE.PNG
-
 Main system elements:
 
 | Component          | Function                              |
@@ -90,7 +88,7 @@ The application is organized around different operating states, including:
 
 The main application handles the interaction between the user interface, RTC, sensors, and actuators.
 
-PLACEHOLDER: FLOWCHARTS/SYSTEM.PNG
+<img width="480" height="" alt="feedog_system_simulation" src="https://github.com/user-attachments/assets/0f5ad26d-d91f-4b9a-9e82-2f83dd487755" />
 
 ### Sensor and Actuator Control
 
@@ -112,15 +110,11 @@ When a scheduled event is reached:
 3. Sensor information is used to monitor the corresponding bowl.
 4. The system returns to its normal monitoring state.
 
-PLACEHOLDER: FLOWCHARTS/MAIN.PNG
-
 ## Manual Operation
 
 Manual mode allows the user to directly activate the food dispensing and water filling mechanisms through the navigation interface.
 
 This mode was included for system testing and direct control of the actuators.
-
-PLACEHOLDER: EXTRAS/MANUAL_MODE.PNG
 
 ## Project Resources
 
@@ -174,5 +168,3 @@ Third-party components retain their original copyright and licensing notices.
 ## Academic Context
 
 Feedog was developed as part of the Digital Electronics III coursework, with the objective of integrating digital electronics, embedded programming, sensors, actuators, and user interaction into a complete working system.
-
-PLACEHOLDER: EXTRAS/FINAL_PROJECT_PHOTO.PNG
