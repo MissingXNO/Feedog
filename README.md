@@ -24,7 +24,7 @@ The system includes:
 * Navigation panel with multiple push buttons.
 * Manual and automatic operating modes.
 
-PLACEHOLDER: IMAGES/FEEDOG_SYSTEM_OVERVIEW.PNG
+<img width="1264" height="842" alt="eng diagram" src="https://github.com/user-attachments/assets/d2e10ef0-7cdb-4d13-8070-0ee00977e94c" />
 
 ## System Architecture
 
@@ -59,17 +59,17 @@ The project integrates the following hardware components:
 * Push-button navigation panel
 * Transistor-based pump switching circuit
 
-PLACEHOLDER: HARDWARE/OLED.PNG
+<img width="240" height="" alt="OLED" src="https://github.com/user-attachments/assets/9f1ceebc-93e0-49a7-9c87-cf32f70181e0" />.
 
-PLACEHOLDER: HARDWARE/RTC.PNG
+<img width="240" height="" alt="RTC" src="https://github.com/user-attachments/assets/9ef69e79-e430-4ab9-9b6b-ede2910c6995" />.
 
-PLACEHOLDER: HARDWARE/SERVO.PNG
+<img width="240" height="" alt="Servo" src="https://github.com/user-attachments/assets/260fa4eb-1653-4f9d-b268-78b8ea4dbe60" />.
 
-PLACEHOLDER: HARDWARE/ULTRASONICSENSOR.PNG
+<img width="240" height="" alt="UltrasonicSensor" src="https://github.com/user-attachments/assets/b889b0f7-dcd6-4f95-8a17-ab696bfdd2c2" />.
 
-PLACEHOLDER: HARDWARE/LEVELSENSOR.PNG
+<img width="240" height="" alt="LevelSensor" src="https://github.com/user-attachments/assets/fc76d2c5-7597-4667-af53-1e0dd4d6b317" />.
 
-PLACEHOLDER: HARDWARE/PUMP.PNG
+<img width="240" height="" alt="Pump" src="https://github.com/user-attachments/assets/b424abcc-9365-4c44-8224-aa91d3dde2b1" />.
 
 ## Firmware
 
@@ -100,14 +100,6 @@ The firmware includes dedicated modules for several hardware functions:
 * `servo.c / servo.h` — servo control.
 * `BitBang_I2C.c / BitBang_I2C.h` — software I2C communication.
 * `ss_oled.c / ss_oled.h` — OLED display control.
-
-PLACEHOLDER: FLOWCHARTS/ULTRASONICSENSOR.PNG
-
-PLACEHOLDER: FLOWCHARTS/SERVO.PNG
-
-PLACEHOLDER: FLOWCHARTS/I2C.PNG
-
-PLACEHOLDER: FLOWCHARTS/OLED.PNG
 
 ## Automatic Operation
 
